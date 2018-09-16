@@ -1,0 +1,35 @@
+{
+  "name": "vacation-organizer",
+  "version": "1.0.0",
+  "description": "This is an organizer with many presets build opon react/redux with next.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "start": "next start",
+    "build": "next build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djdiox/vacation-organizer.git"
+  },
+  "keywords": [
+    "vacation",
+    "next.js",
+    "react",
+    "redux",
+    "organizer",
+    "web"
+  ],
+  "author": "diox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djdiox/vacation-organizer/issues"
+  },
+  "homepage": "https://github.com/djdiox/vacation-organizer#readme",
+  "dependencies": {
+    "next": "^6.1.2",
+    "react": "^16.5.1",
+    "react-dom": "^16.5.1"
+  }
+}
