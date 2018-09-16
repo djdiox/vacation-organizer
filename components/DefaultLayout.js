@@ -1,14 +1,9 @@
 import Header from './Header'
 import React from 'react';
-
-const layoutStyle = {
-	margin: 20,
-	padding: 20,
-	border: '1px solid #DDD'
-};
+import '../styles/index.scss';
 
 const Layout = (props) => (
-	<div style={layoutStyle}>
+	<div className="content">
 		<Header/>
 		{props.children}
 	</div>

@@ -1,0 +1,29 @@
+$font-size: 50px;
+.example {
+  font-size: $font-size;
+}
+
+.content {
+  margin: 2em;
+  padding: 2em;
+  border: 1px solid #DDD;
+}
+
+body {
+  font-family: 'Titillium Regular', sans-serif;
+}
+
+@font-face {
+  font-family: "Titillium Regular";
+  src: url("/static/fonts/TitilliumWeb-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Titillium Bold";
+  src: url("/static/fonts/TitilliumWeb-Bold.ttf");
+}
+
+@font-face {
+  font-family: "Titillium Light";
+  src: url("/static/fonts/TitilliumWeb-Light.ttf");
+}
