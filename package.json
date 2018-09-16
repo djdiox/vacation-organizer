@@ -29,6 +29,7 @@
   "homepage": "https://github.com/djdiox/vacation-organizer#readme",
   "dependencies": {
     "@zeit/next-sass": "^0.2.0",
+    "@zeit/next-typescript": "^1.1.0",
     "express": "^4.16.3",
     "isomorphic-unfetch": "^2.1.1",
     "next": "^6.1.2",

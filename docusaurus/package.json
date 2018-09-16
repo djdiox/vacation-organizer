@@ -11,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "docusaurus": "^1.4.0"
+  },
+  "dependencies": {
+    "@zeit/next-typescript": "^1.1.0"
   }
 }
