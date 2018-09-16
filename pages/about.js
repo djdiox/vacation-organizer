@@ -1,7 +1,9 @@
+import Layout from '../components/DefaultLayout';
+
 export default () => (
-	<div>
+	<Layout>
 		<p>
 			<a href="mailto:djdiox@gmail.com">Contact us!</a>
 		</p>
-	</div>
+	</Layout>
 )
